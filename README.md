@@ -9,10 +9,10 @@ Como parte do meu processo de desenvolvimento profissional, estou investindo em 
 - **Modelagem de Dados**: Capacidade de modelar dados, criando soluções para problemas de negócios.
 
 ## Por que isso é importante para minha carreira?
-SQL é uma das habilidades mais requisitadas em minha área e, com ele, consigo:
-- **Gerenciar Bancos de Dados**: Interagir com bancos de dados de diversos tipos e gerar relatórios para tomar decisões baseadas em dados.
-- **Desempenho**: Responder rapidamente a questões relacionadas ao desempenho dos sistemas, utilizando SQL para análise e ajustes finos.
-- **Integração de Sistemas**: Integrar o MySQL em diferentes sistemas e processos da empresa, um passo importante para otimizar fluxos de dados.
+SQL é uma das habilidades mais requisitadas em minha área e com ele eu consigo:
+- **Gerenciar Bancos de Dados**: Interagir com bancos de dados e gerar relatórios para tomadas de decisões baseadas em dados.
+- **Desempenho**: Responder a questões relacionadas ao desempenho dos sistemas, utilizando SQL para análises e ajustes.
+- **Integração de Sistemas**: Integrar o SQL em diferentes sistemas e processos da empresa, uo que permite otimizar fluxos de dados.
 
 ## Impacto no meu desenvolvimento:
-Esse curso me ajudou a melhorar as habilidades que utilizo no meu dia a dia, incluindo a consulta a grandes volumes de dados e a automação de processos repetitivos.
+Esse curso me ajudou a melhorar as habilidades que utilizo no meu dia a dia, incluindo a consulta de grandes volumes de dados e a automação de processos repetitivos.
