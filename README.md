@@ -3,7 +3,7 @@
 Como parte do meu processo de desenvolvimento profissional, estou investindo em minhas habilidades em SQL, uma competência essencial para minha carreira como engenheira de dados. O curso **MySQL do básico ao avançado** foi escolhido para aprofundar meus conhecimentos práticos e garantir que eu possa lidar com consultas e gerenciamento de bancos de dados de forma eficiente.
 
 ## O que aprendi:
-- **Consultas SQL**: Desde comandos básicos até consultas avançadas utilizando JOINs, GROUP BY, e funções agregadas.
+- **Consultas SQL**: Desde comandos básicos até consultas avançadas utilizando JOINs, GROUP BY, e funções agregadoras.
 - **Manipulação de Dados**: Criação de tabelas, inserção de dados e definição de restrições de integridade.
 - **Integração com Python**: Automatização e otimização de consultas SQL em conjunto com scripts em Python.
 - **Modelagem de Dados**: Capacidade de modelar dados, criando soluções para problemas de negócios.
