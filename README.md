@@ -16,3 +16,6 @@ SQL é uma das habilidades mais requisitadas em minha área e com ele eu consigo
 
 ## Impacto no meu desenvolvimento:
 Esse curso me ajudou a melhorar as habilidades que utilizo no meu dia a dia, incluindo a consulta de grandes volumes de dados e a automação de processos repetitivos.
+
+## Hands On:
+![Hands On](imagens/cursosql.png)
